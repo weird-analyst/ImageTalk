@@ -76,7 +76,3 @@ This project is licensed under the MIT License.
     Transformers: https://github.com/huggingface/transformers
 
 Happy communicating with images!
-
-
-
-Replace `"yourusername"` and `"your-repo-name"` with your GitHub username and repository

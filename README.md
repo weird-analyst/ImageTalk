@@ -14,7 +14,7 @@ With this web app, users can simply upload an image, and the application will pr
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/
+   git clone https://github.com/weird-analyst/Interactive-Image-Communication-Web-App
    ```
 2. Install the project dependencies:
 

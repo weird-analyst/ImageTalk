@@ -1,4 +1,4 @@
-# Interactive-Image-Communication-Web-App
+# ImageTalk
 
 ## Overview
 In this project, I have developed an innovative web application that leverages cutting-edge technologies to facilitate communication with images. The Interactive Image Communication Web App is powered by Langchain, a sophisticated language model, and harnesses the capabilities of Hugging Face's Transformers for image captioning and object recognition. Additionally, it integrates OpenAI's API to establish seamless interactions with images.

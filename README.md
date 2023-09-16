@@ -39,7 +39,6 @@ With this web app, users can simply upload an image, and the application will pr
 
     This tool detects objects in the uploaded image.
     It utilizes the transformers library and the "facebook/detr-resnet-50" model.
-    Detected objects are listed in the format "[x1, y1, x2, y2] class_name confidence_score."
 
 ### ChatGPT Interaction
 
@@ -52,27 +51,10 @@ With this web app, users can simply upload an image, and the application will pr
     Modify the openai_api_key variable in main.py with your OpenAI API key.
     Adjust model parameters and settings in the ChatOpenAI initialization to meet your requirements.
 
-## Dependencies
-
-    LangChain: 0.0.171
-    Streamlit: 1.22.0
-    OpenAI: 0.27.6
-    Tabulate: 0.9.0
-    Timm: 0.9.2
-    Transformers: (latest version)
-
 ## Contributing
 
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-    LangChain: https://github.com/langchain
-    Streamlit: https://streamlit.io/
-    OpenAI: https://beta.openai.com/
-    Transformers: https://github.com/huggingface/transformers
-
-Happy communicating with images!
